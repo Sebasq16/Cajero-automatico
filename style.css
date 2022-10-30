@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(199, 254, 2);
+}
+#parteUno {
+    display: flex;
+    flex-direction: column;
+}
+#parteDos {
+    display: none;
+}
+#parteTres {
+    display: none;
+}
+#parteCuatro {
+    display: none;
+}
+#parteCinco {
+    display: none;
+}
+#parteSeis {
+    display: none;
+}
+#parteSiete {
+    display: none;
+}
+#parteOcho {
+    display: none;
+}
